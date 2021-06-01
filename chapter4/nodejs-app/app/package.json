@@ -1,0 +1,9 @@
+{
+  "name": "exampleapp",
+  "description": "Simple Express app",
+  "author": "Afonso Santos <afonso@afonsosantos.me>",
+  "dependencies": {
+    "express": "4.x"
+  },
+  "engine": "node >= 0.10.6"
+}
